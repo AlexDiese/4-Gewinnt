@@ -1437,7 +1437,7 @@ public class vierGewinnt extends JFrame {
       } // end of for
     } catch(Exception e) {
       
-      printDebug("Fehler in berechneBewertung");
+      printDebug("Fehler beim berechnen der Bewertung");
     } 
     return bewertung;
   }
